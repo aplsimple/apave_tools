@@ -9,6 +9,6 @@ The tools include:
 
 See their *README.md* in the appropriate directories:
 
-  * [tools/dockingFW](https://github.com/aplsimple/apave_tools/tree/master/tools/dockingFW)
+  * [tools/dockingFW](https://github.com/aplsimple/apave_tools/tree/main/tools/dockingFW)
 
-  * [tools/apave](https://github.com/aplsimple/apave_tools/tree/master/tools/apave)
+  * [tools/apave](https://github.com/aplsimple/apave_tools/tree/main/tools/apave)
