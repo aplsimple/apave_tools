@@ -38,7 +38,7 @@ Clicking *Save layout* button will save the current layout to *$::dockfile* and 
 
 Clicking *Load layout* button will restore the saved layout.
 
-<img src="https://github.com/aplsimple/apave_tools/releases/download/DockingFW-2.0/dfw1.png" class="media" alt="">
+<img src="https://github.com/aplsimple/apave_tools/releases/download/DockingFW-2.0/dfw1.jpg" class="media" alt="">
 
 # 1st resulting file
 
