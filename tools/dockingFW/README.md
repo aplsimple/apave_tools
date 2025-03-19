@@ -1,7 +1,7 @@
 # What is this
 
-The *dockingFW.tcl* is a tool to get the paned GUI.
-It can be run with various arguments, to get Tcl/Tk files as results.
+The *dockingFW.tcl* is a tool to create the paned GUI.
+It can be run with various arguments, to create Tcl/Tk files as results.
 
 Both resulting .tcl files can be used as templates for further development.
 
